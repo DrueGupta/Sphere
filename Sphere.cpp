@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Shpere.h"
+#include "Sphere.h"
 using namespace std;
 
 double Sphere::getRadius()
