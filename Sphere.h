@@ -5,11 +5,11 @@ using namespace std;
 class Sphere
 {
 private:
-	double radius();
+	double radius;
 public:
 	double getRadius();
 	void setRadius(double radius);
-	double voulume();
+	double volume();
 	double surfaceArea();
 	Sphere();
 };
